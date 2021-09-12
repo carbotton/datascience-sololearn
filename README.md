@@ -1,2 +1,7 @@
-# datascience-sololearn
-This repository contains every project from Sololearn's Data Science course.
+This course covers:
+* data manipulation using Numpy, 
+* data analysis using Pandas, 
+* data visualization using Matplotlib, 
+* linear regression
+* classification
+* clustering wines

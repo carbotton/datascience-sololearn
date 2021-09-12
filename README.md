@@ -1,4 +1,4 @@
-This course covers:
+#This course covers:
 * data manipulation using Numpy, 
 * data analysis using Pandas, 
 * data visualization using Matplotlib, 
